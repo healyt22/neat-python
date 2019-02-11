@@ -14,3 +14,6 @@ species_fitness.csv
 __pycache__/
 *stats*.dat*
 sandbox/*
+build/*
+dist/*
+neat_python.egg-info/*
